@@ -1,0 +1,37 @@
+*{
+	padding:0;
+	margin:0;
+	}
+	body{
+	background-image: url(header.jpg), url(bg.png);
+	background-repeat: no-repeat, repeat-x;
+	background-position: center top;
+	text-align: left;
+}
+header{
+	width: 800px;
+	margin: 0 auto;
+}
+a{
+	color: 	white;
+	text-decoration: none;
+}
+img.vloot1{
+	float: left;
+	padding: 10px;
+}
+div {
+	background-color: white;
+	margin:middle;
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 	0px;	
+}
+img.vloot2{
+	float: right;
+	padding: 10px;
+	}
+img.vloot3{
+	float: left;
+	padding: 10px;
+}
