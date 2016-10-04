@@ -15,6 +15,7 @@ header{
 a{
 	color: 	white;
 	text-decoration: none;
+	padding: 10px;
 }
 img{
 	float: left;
@@ -30,4 +31,11 @@ div {
 img.vloot12{
 	float: right;
 	padding: 10px;
+}
+p{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+h1{
+	padding-left: 10px;
 }
